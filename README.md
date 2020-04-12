@@ -2,8 +2,8 @@
 
 Summary
 
- HTML and CSS and Javascript documents create a random password generator
- This project uses Javascript
+   HTML and CSS and Javascript documents create a random password generator
+   This project uses Javascript
 
 This project has the following features:
 
@@ -23,11 +23,10 @@ Psuedo code:
     
    NOTE to TA's
       
-      
-      I am not able to exit the first while loop that asks for password length.
-      I also wrote the combination of IF and elseif statements so that the randomly generated password picks up atleast 
-      one of the slection criteria beacuse i manuall have the concatinations built 
-      I also wasnt able to put screenshots within the Readme 
+   I am not able to exit the first while loop that asks for password length.
+   I also wrote the combination of IF and elseif statements so that the randomly generated password picks up atleast 
+   one of the slection criteria beacuse i manuall have the concatinations built 
+   I also wasnt able to put screenshots within the Readme 
       
 
 This Project Contains
