@@ -25,7 +25,7 @@ Psuedo code:
       
    I am not able to exit the first while loop that asks for password length.
    I also wrote the combination of IF and elseif statements so that the randomly generated password picks up atleast 
-   one of the slection criteria beacuse i manuall have the concatinations built 
+   one of the slection criteria beacuse i manually have the concatinations built 
    I also wasnt able to put screenshots within the Readme 
       
 
