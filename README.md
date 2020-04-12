@@ -36,4 +36,18 @@ This Project Contains
    One Javascript Page
    
    
+   HTML Validation below
+   
+   Document checking completed. No errors or warnings to show.
+
+Heading-level outline
+<h1> Password Generator
+
+<h2> Generate a Password
+
+Structural outline
+Password Generator
+Generate a Password
+   
+   
    
